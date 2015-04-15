@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>webtest</groupId>
-  <artifactId>webtest</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <artifactId>jdev-taxi</artifactId>
+  <version>0.0.2</version>
   <packaging>war</packaging>
-  <name>Taxi1</name>
-  <description>Web App Test</description>
+  <name>Julia Taxi</name>
+  <description>Student Test Application</description>
      <properties>
         <junit.version>4.8.2</junit.version>
         <maven-compiler-plugin.version>3.0</maven-compiler-plugin.version>
